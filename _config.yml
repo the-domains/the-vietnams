@@ -1,0 +1,23 @@
+name: The Vietnams
+favicon: null
+layout_spectrum: 0.22212156187742949
+typography_spectrum: 0.6831595320254564
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.017920292681083083
+  lightness: 0.48408743971958756
+  saturation: 0.37200122931972146
+  rhythmicContrast: 0.26200443180277944
+purpose: []
