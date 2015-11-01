@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Official Website of The Vietnams]]></title>
         <description><![CDATA[The Official Website of The Vietnams]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-vietnams/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Oct 2015 17:16:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 Nov 2015 21:44:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-vietnams/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Vietnams " Oh Miss Deceiver (HD Live Session)]]></title>
+            <description><![CDATA[<article><h1>The Vietnams " Oh Miss Deceiver (HD Live Session)</h1><p>Debut album available on iTunes now: https://itunes.apple.com/us/artist/the-vietnams/id593920775?ign-mpt=uo%3D4 Playing their debut single "Oh Miss Deceiver" here's the first of many Live Sessions with The Vietnams. Film Credit: Karen Huntington LYRICS: Oh Miss Deceiver Have you found your next victim Tall dark and handsome Will you lure him in, will you ever</p><img src="https://i.ytimg.com/vi/o0Pj1JhJqa4/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=o0Pj1JhJqa4</link>
+            <guid isPermaLink="false">11996e5a-24ed-4866-ab23-768ae30b8a4d</guid>
+            <pubDate>Sun, 01 Nov 2015 21:44:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Home]]></title>
             <description><![CDATA[<article><h1>Home</h1><p>Welcome</p></article>]]></description>
-            <link>undefinedhome/index.html</link>
+            <link>https://thegrid.ai/the-vietnams/home/index.html</link>
             <guid isPermaLink="false">0c5ce725-7653-45ed-bad1-924b8c892f24</guid>
             <pubDate>Sat, 31 Oct 2015 17:16:11 GMT</pubDate>
         </item>
